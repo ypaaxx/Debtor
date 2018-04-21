@@ -11,6 +11,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     //Авторизация
     autorization();
+    //Да бля
 }
 
 MainWindow::~MainWindow()
